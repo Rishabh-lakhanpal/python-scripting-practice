@@ -1,0 +1,14 @@
+[25-07-19 05:46:12] User name: Rishabh
+[25-07-19 05:46:14] Is it raining? → y
+[25-07-19 05:46:17] Do you have an umbrella? → n
+[25-07-19 05:46:17] Decision: User told to wait.
+[25-07-19 05:46:24] Is it raining? → y
+[25-07-19 05:46:26] Do you have an umbrella? → y
+[25-07-19 05:46:26] Decision: Go outside with umbrella.
+[25-07-19 05:49:25] User name: Ajay
+[25-07-19 05:49:27] Is it raining? → y
+[25-07-19 05:49:30] Do you have an umbrella? → n
+[25-07-19 05:49:30] Decision: User told to wait.
+[25-07-19 05:49:34] Is it raining? → y
+[25-07-19 05:49:36] Do you have an umbrella? → y
+[25-07-19 05:49:36] Decision: Go outside with umbrella.
